@@ -1,2 +1,3 @@
 # terraform-sample
-This repository is for Terraform sample code.
+
+This repository is Terraform sample codes for [Young Leaves](https://www.kdkwakaba.com).
